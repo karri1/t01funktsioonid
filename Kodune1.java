@@ -31,3 +31,11 @@ public class Kodune1{
 		
 	}
 }
+
+/*
+Karin Rikkinen
+Mitu protsenti moodustab üks arv teisest
+20 moodustab 100-st 20%
+Palju on x% teisest arvust
+20% 100-st on 20
+*/
